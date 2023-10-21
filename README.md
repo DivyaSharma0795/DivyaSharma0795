@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DivyaSharma0795
 - :books: I'm currently pursuing my masters in Interdisciplinary Data Science at Duke University
 - :computer: I have 6 years of work experience in Business and Data Analytics from Amazon and MuSigma
-- :notebook: Before that, I did my undergraduation in Computer Science Engineering from SRM University
+- :notebook: Before that, I did my undergrad in Computer Science Engineering from SRM University
 - 👀 I’m interested in coding and Data Science
 - 🌱 I’m currently learning to use Github for my projects and building my portfolio here
 - 📫 You can reach out to me on ds655@duke.edu / https://www.linkedin.com/in/divya0795/
