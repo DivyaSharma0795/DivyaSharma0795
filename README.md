@@ -4,4 +4,4 @@
 - :notebook: Before that, I did my undergrad in Computer Science Engineering from SRM University
 - 👀 I’m interested in coding and Data Science
 - 🌱 I’m currently learning to use Github for my projects and building my portfolio here
-- 📫 You can reach out to me on ds655@duke.edu / https://www.linkedin.com/in/divya0795/
+- 📫 You can reach out to me on ds655@duke.edu / https://www.linkedin.com/in/DivyaSharma0795/
